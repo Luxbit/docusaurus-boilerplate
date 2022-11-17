@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_boilerplate=self.webpackChunkdocusaurus_boilerplate||[]).push([[3343],{3158:e=>{e.exports=JSON.parse('{"permalink":"/docusaurus-boilerplate/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
